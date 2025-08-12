@@ -8,7 +8,7 @@
 - 📫 How to reach me: &nbsp;im.senthilnathan.dev@gmail.com
   <br/>
 
-### Connect with me:
+### 📪 Connect with me:
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthilnathan s" height="30" width="40" />](https://linkedin.com/in/senthil-nathan-s-6b66012ab)
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.senthil_nathan_" height="30" width="40" />](https://instagram.com/im.senthil_nathan_)
 
@@ -21,7 +21,7 @@
 
 ---
 
-### GitHub Stats:
+### 📊 GitHub Stats:
 
 ![Senthil Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-senthilnathan&theme=light&show_icons=true&&hide=issues,contribs)
 
