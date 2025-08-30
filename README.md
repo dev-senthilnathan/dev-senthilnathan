@@ -25,4 +25,4 @@
 
 ![Senthil Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-senthilnathan&theme=light&show_icons=true&&hide=issues,contribs)
 
-[![Senthil Nathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-senthilnathan&bg_color=ffffff&color=3385ff&line=51f565&point=51f965&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Senthil Nathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-senthilnathan&bg_color=ffffff&color=3385ff&line=51f565&point=51f965&area=true&hide_border=true)](https://github.com/dev-senthilnathan/github-readme-activity-graph)
